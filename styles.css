@@ -1,6 +1,6 @@
 #box {
     background-color: rgba(89, 170, 83, 0.8);
-    height: 200px;
+    height: 90px;
     width:  200px;
     border-radius: 10px;
     text-align: center;
@@ -9,3 +9,4 @@
     left: 50%;
     transform: translate(-50%, -50%);
    }
+ 
